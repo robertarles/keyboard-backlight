@@ -1,6 +1,10 @@
 # Keyboard Backlight control for macbooks.
 
-Keyboard-backlight settings for lubuntu on my macbook pro, 13 inch retina early 2015
+Keyboard-backlight settings for Linux. 
+Now tested on Lubuntu on: 
+- Macbook Pro, Retina, 13 inch, Early 2015
+- MacBook Pro, Retina, 15-inch, Mid 2015
+
 
 ## Use
 
@@ -20,5 +24,5 @@ in order for the command to have to rights to change the backlight setting.
 
 In Lubuntu, I've assigned keyboard shortcuts in Configuration Center|Shortcut Keys:
 
-* XF86kbdBrightnessDown set to `keyboard-backlight --down`
-* XF86kbdBrightnessUp set to `keyboard-backlight --up`
+- XF86kbdBrightnessDown set to `keyboard-backlight --down`
+- XF86kbdBrightnessUp set to `keyboard-backlight --up`
